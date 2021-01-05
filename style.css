@@ -1,0 +1,16 @@
+.header{
+   background-color :antiquewhite;
+   display: flex;
+   justify-content: space-between;
+
+
+}
+.start{
+    background-color: beige;
+    text-align: center;
+}
+.main{
+    background-color: bisque;
+    display:flex;
+    flex-wrap:wrap
+}
